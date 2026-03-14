@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 B.Sc. Computer Science and Engineering @ **Egypt-Japan University (E-JUST)** — CGPA: 3.61
+- 🎓 B.Sc. Computer Science and Engineering @ **Egypt-Japan University (E-JUST)**
 - 🏆 **1st Place** — HERE Cairo Geospatial Student Hackathon 2026
 - 🔬 Research Intern @ **University of Illinois Urbana-Champaign (UIUC)**
 - 📍 Alexandria, Egypt 🇪🇬
