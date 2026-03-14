@@ -40,8 +40,6 @@ Worked on labeling 1500+ Java code mutants using LLM-assisted methods.
 | [Seam Carving](https://github.com/abdallahade1/seam-carving-cse429) | Python, NumPy, Streamlit | Content-aware image resizing using dynamic programming — CSE 429 |
 | [AI Product Review Summarizer](https://github.com/abdallahade1/real-time-reviews-analysis) | BERT, GeminiAPI, FastAPI | Aspect-based sentiment analysis for product pros/cons |
 | [Object Detection for Blind](https://github.com/abdallahade1/Object-detection-with-mobile-phone-for-Blind-people) | C# | Mobile assistant for visually impaired people |
-| [Health Monitoring System](https://github.com/abdallahade1/Health-Monitoring-System-) | Arduino, Raspberry Pi | Solar-powered health monitoring device |
-
 ---
 
 ## 🛠️ Technical Skills
